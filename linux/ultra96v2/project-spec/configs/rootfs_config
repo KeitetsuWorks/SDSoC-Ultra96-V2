@@ -1391,7 +1391,7 @@ CONFIG_run-postinsts=y
 #
 # ffmpeg 
 #
-# CONFIG_ffmpeg is not set
+CONFIG_ffmpeg=y
 # CONFIG_ffmpeg-dbg is not set
 # CONFIG_ffmpeg-dev is not set
 
@@ -4256,7 +4256,7 @@ CONFIG_packagegroup-petalinux=y
 #
 # packagegroup-petalinux-gstreamer 
 #
-# CONFIG_packagegroup-petalinux-gstreamer is not set
+CONFIG_packagegroup-petalinux-gstreamer=y
 # CONFIG_packagegroup-petalinux-gstreamer-dev is not set
 # CONFIG_packagegroup-petalinux-gstreamer-dbg is not set
 
